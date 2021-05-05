@@ -1,0 +1,50 @@
+2020-09-01_10:50:26
+Name: LinSheng
+Race: Human
+Character: Super Novice
+Level: 49
+status: Normal
+Hp: 26361/26367
+Mp: 41625/41629
+Exp: 6901.566/15075.658
+
+ATK: 582
+MAG: 666
+INT: 520
+MEN: 563
+SPD: 479
+
+Blessing:
+ God Control
+ Indomitable(Max)
+ Lucky(?)
+
+Skill:
+ Fire Ball Lv.2
+ Curse Lv.1
+ Taunt Lv.1
+ Invisibility Lv.2
+ Overload Lv.1
+
+Equip:
+ Laptop LV5
+ Keyboard LV2
+ Mouse LV3
+ Monitor LV4
+ Earphone LV1
+
+Title: 
+ The man of sealed
+ Man in the chair
+ Spider Maze Explorer
+ zZz Snooze Button
+ Carelessness
+ A Night Owl
+ Pinocchio
+ Peter Pan
+ Dungeon Dungeon Dungeon
+ Grandpa's Card
+ Bob the Builder
+ Creeper
+ Coffeine Slayer
+ Night's Watch
